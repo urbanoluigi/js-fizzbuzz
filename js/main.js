@@ -18,3 +18,8 @@ for (let i = 0; i <= 100; i++) {
     else
         console.log(i);
 }
+
+function relocate_home()
+{
+     location.href = "https://www.youtube.com/watch?v=hvL1339luv0&ab_channel=RapidLiquid";
+} 
